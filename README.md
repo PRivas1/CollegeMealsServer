@@ -23,3 +23,9 @@ This server hides the Gemini API key from the client by handling the request ser
 1. Receives a POST request with a list of ingredients
 2. Builds a Gemini prompt and sends it to the API
 3. Returns a recipe including prep time and cook time
+
+---
+
+## Related
+
+- Backend: [CollegeMealsApp](https://github.com/PRivas1/CollegeMealsApp)
